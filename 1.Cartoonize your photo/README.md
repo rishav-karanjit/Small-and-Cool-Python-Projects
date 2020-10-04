@@ -1,2 +1,2 @@
-Outputs:
-<img scr = "./Screenshot.png"></img>
+Output:
+<img src="./Screenshot.png"></img>
